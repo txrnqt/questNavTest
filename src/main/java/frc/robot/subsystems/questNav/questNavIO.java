@@ -14,4 +14,5 @@ public interface questNavIO {
         public float questYaw;
     }
 
+    public default void zeroPosition() {}
 }
